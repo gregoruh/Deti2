@@ -1,0 +1,4 @@
+AuthType Basic
+AthName "Meine Webseite"
+AuthUserfile "../htdocs/passwort/.htpasswort"
+Require valid-user
